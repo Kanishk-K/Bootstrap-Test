@@ -29,7 +29,7 @@ There is also a `style-guide.md` file, which contains the information you'll nee
 
 Feel free to follow these steps:
 
-1. Clone & branch the project on [GitHub](https://github.com/). This will be the submission medium we will be using. If you're not sure how to do this, [have a read through of this tutorial we made](https://www.notion.so/designsbyricky/Git-Workflow-2c74c28d44e04cdb8a356b3cb8778a20/) (skip to the Branching section).
+1. Fork then clone the project on [GitHub](https://github.com/). This will be the submission medium we will be using. If you're not sure how to do this, [have a read through of this tutorial we made](https://www.notion.so/designsbyricky/Git-Workflow-2c74c28d44e04cdb8a356b3cb8778a20/) (skip to the Forking section).
 2. Look through the designs to start planning out how you'll tackle the project. This step is crucial to help you think ahead for CSS classes that you could create to make reusable styles.
 3. Before adding any styles, structure your content with HTML. Writing your HTML first can help focus your attention on creating well-structured content.
 4. Write out the base styles for your project, including general content styles, such as `font-family` and `font-size`.
